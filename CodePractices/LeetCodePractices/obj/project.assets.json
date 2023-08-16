@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\TwoSum\\TwoSum.csproj",
-      "projectName": "TwoSum",
-      "projectPath": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\TwoSum\\TwoSum.csproj",
+      "projectUniqueName": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\LeetCodePractices\\LeetCodePractices.csproj",
+      "projectName": "LeetCodePractices",
+      "projectPath": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\LeetCodePractices\\LeetCodePractices.csproj",
       "packagesPath": "C:\\Users\\ercan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\TwoSum\\obj\\",
+      "outputPath": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\LeetCodePractices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

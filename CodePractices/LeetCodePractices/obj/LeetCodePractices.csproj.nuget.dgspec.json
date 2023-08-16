@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\PalindromeNumber\\PalindromeNumber.csproj": {}
+    "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\LeetCodePractices\\LeetCodePractices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\PalindromeNumber\\PalindromeNumber.csproj": {
+    "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\LeetCodePractices\\LeetCodePractices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\PalindromeNumber\\PalindromeNumber.csproj",
-        "projectName": "PalindromeNumber",
-        "projectPath": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\PalindromeNumber\\PalindromeNumber.csproj",
+        "projectUniqueName": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\LeetCodePractices\\LeetCodePractices.csproj",
+        "projectName": "LeetCodePractices",
+        "projectPath": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\LeetCodePractices\\LeetCodePractices.csproj",
         "packagesPath": "C:\\Users\\ercan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\PalindromeNumber\\obj\\",
+        "outputPath": "C:\\Users\\ercan\\source\\LeetCodeSolution\\LeetCode\\CodePractices\\LeetCodePractices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
