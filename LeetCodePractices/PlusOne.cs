@@ -1,12 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace LeetCodePractices;
 
-namespace LeetCodePractices
+public class PlusOne
 {
-    internal class PlusOne
+    public int[] PlusOneMethod(int[] param)
     {
+        int k=param.Length;
+
+        for(int i=k-1; i>=0; i--)
+        {
+            if (param[i] <9)
+            {
+                param[i]++;
+                return param;
+            }
+            param[i]=0;
+        }
+        int[] newNumber=new int[k+1];
+        newNumber[0] = 1;
+
+        return newNumber;
     }
 }
